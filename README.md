@@ -1,6 +1,6 @@
 # WeatherApp
 
-Live Demo : 
+Live Demo : https://thriver652.github.io/WeatherApp/
 
 WeatherApp is a simple and user-friendly web application that provides real-time weather information for any location around the world. It's built using HTML, CSS, and JavaScript, and it relies on the RapidAPI platform to fetch weather data. Whether you're planning a trip or just want to check the weather in your area, WeatherApp has got you covered.
 
